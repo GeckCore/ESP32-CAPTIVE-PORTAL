@@ -64,7 +64,7 @@ This project creates a **captive portal** using an **ESP32** device. When users 
 
 ### 🧰 Using Arduino IDE
 
-1. Install the **ESP32 board support** from the [Espressif GitHub repo](https://github.com/espressif/arduino-esp32).
+1. Install the **ArduinoIDE** from the [ArduinoIDE-APP]([https://github.com/espressif/arduino-esp32](https://www.arduino.cc/en/software/)).
 2. Clone or download this repository.
 3. Open the `.ino` file in Arduino IDE.
 4. Select your board (`ESP32 Dev Module`) and correct port.
