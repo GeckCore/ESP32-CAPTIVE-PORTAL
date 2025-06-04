@@ -22,7 +22,33 @@ This project creates a **captive portal** using an **ESP32** device. When users 
 
 ## 📷 Preview
 
-<img src="https://user-images.githubusercontent.com/your-preview.png" width="600" alt="Captive Portal Screenshot">
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-34-42.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-05.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-14.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-22.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-31.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-36.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-42.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-47.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
+<p align="center">
+  <img src="https://github.com/GeckCore/ESP32-CAPTIVE-PORTAL/blob/main/img/photo_2025-06-04_19-35-55.jpg?raw=true" width="480" alt="ESP32 Captive Portal Screenshot" />
+</p>
 
 ---
 
