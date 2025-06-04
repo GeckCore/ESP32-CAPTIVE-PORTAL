@@ -5,7 +5,7 @@
 ![GeckCode](https://img.shields.io/badge/by-GeckCode-8A2BE2.svg)
 
 > 📡 A simple yet effective Captive Portal for the ESP32 microcontroller  
-> 🦎 Created by **GeckCode** – "Geck as in gecko, Code as in programming."
+> 🦎 Created by **GeckCode** 
 
 ---
 
